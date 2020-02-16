@@ -1,3 +1,3 @@
 # shooter
-Game
- Simple game in C++ using SFML
+
+Simple game in C++ using SFML
